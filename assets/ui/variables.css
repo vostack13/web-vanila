@@ -1,0 +1,18 @@
+body.light {
+  --c-border: #d1cfd7;
+  --c-border-secobdary: #f0f0f3;
+
+  --c-text: #000000;
+
+  --c-bg: #ffffff;
+  --c-bg-control: transparent;
+}
+
+body.dark {
+  --c-border: #404044;
+
+  --c-text: #ffffff;
+
+  --c-bg: #1f1f1f;
+  --c-bg-control: transparent;
+}
